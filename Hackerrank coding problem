@@ -1,0 +1,49 @@
+#30 DAYS OF CODE:
+
+1)OPERATORS:
+
+#Sample Input
+
+12.00
+20
+8 
+
+#Sample Output
+
+15
+
+Explanation:
+Given:
+meal_cost=12,tip_percent=20,tax_present=8
+ Calculation:
+ tip=12*(20/100)=2.4
+ tax=12*(8/100)=0.96
+ total cost=meal_cost+tip+task=12+2.4+0.96=15.36
+ Roundoff:15
+
+
+CODE:
+
+import math
+import os
+import random
+import re
+import sys
+
+# Complete the solve function below.
+def solve(meal_cost, tip_percent, tax_percent):
+    m1=meal_cost*(tip_percent/100)
+    m2=meal_cost*(tax_percent/100)
+    s=round(meal_cost+m1+m2)
+    print(int(s))
+
+if __name__ == '__main__':
+    meal_cost = float(input())
+
+    tip_percent = int(input())
+
+    tax_percent = int(input())
+
+    solve(meal_cost, tip_percent, tax_percent)
+
+
