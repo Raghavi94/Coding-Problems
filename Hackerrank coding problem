@@ -131,8 +131,23 @@ s = input()
     print(any([char.isupper() for char in s]))
     
    ---------------------------------------------------------------------------------------------------
+   PYTHON CODING CHALLENGE:
+   SAMPLE INPUT:
+   3
+   4
+   5
+   SAMPLE OUTPUT:
+   81    -->returns 3^4=81
+   1     -->returns 81%5
 
-    
+CODE:
+
+a=int(input())
+b=int(input())
+m=int(input())
+print(pow(a,b))
+print(pow(a,b,m))
+    -------------------------------------------------------------------------------------------------
     
 
 
