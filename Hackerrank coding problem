@@ -148,6 +148,81 @@ m=int(input())
 print(pow(a,b))
 print(pow(a,b,m))
     -------------------------------------------------------------------------------------------------
+    30 DAYS OF CODE:
+    DAY 4:CLASS VS INSTANCE
+    
+    
+    Sample Input:
+
+4
+-1
+10
+16
+18
+----------------------------
+Sample Output:
+
+Age is not valid, setting age to 0.
+You are young.
+You are young.
+
+You are young.
+You are a teenager.
+
+You are a teenager.
+You are old.
+
+You are old.
+You are old.
+------------------------------
+Explanation:
+---------------------------------------------------------
+
+Test Case 0: initialAge=-1
+Because initialAge<0, our code must set age to 0 and print the "Age is not valid..." message followed by the young message. Three years pass and age=3, so we print the young message again.
+
+Test Case 1: initialAge=10
+Because initialAge<13, our code should print that the person is young. Three years pass and age=13, so we print that the person is now a teenager.
+
+Test Case 2: initialAge=16
+Because 13<=initialAge<18, our code should print that the person is a teenager. Three years pass and age=19 , so we print that the person is old.
+
+Test Case 3: initialAge=18
+Because initialAge>=18 , our code should print that the person is old. Three years pass and the person is still old at age=21, so we print the old message again.
+
+---------------------------------------------------------
+CODE:
+
+class Person:
+    def __init__(self,initialAge):
+        # Add some more code to run some checks on initialAge
+        self.initialAge=initialAge
+        if(self.initialAge<0):
+            print("Age is not valid, setting age to 0.")
+    def amIOld(self):
+        # Do some computations in here and print out the correct statement to the console
+        if(self.initialAge<13):
+            print("You are young.")
+        elif(self.initialAge>=13 and self.initialAge<18):
+            print("You are a teenager.")
+        else:
+            print("You are old.")        
+    def yearPasses(self):
+        # Increment the age of the person in here
+        self.initialAge=self.initialAge+1
+
+t = int(input())
+for i in range(0, t):
+    age = int(input())         
+    p = Person(age)  
+    p.amIOld()
+    for j in range(0, 3):
+        p.yearPasses()       
+    p.amIOld()
+    print(" ")
+    
+    -------------------------------------------------------------------------------------------------
+
     
 
 
