@@ -566,6 +566,75 @@ function main() {
     
     console.log(getLetter(s));
 }
+
+-----------------------------------------------------------------------------------------------------------------------
+
+10 days of JS:
+
+DAY-4:COUNT OBJECTS:
+
+Task:
+
+Complete the function in the editor. It has one parameter: an array,a, of objects. Each object in the array has two integer properties denoted by  x and y. The function must return a count of all such objects o in array a that satisfy o.x==o.y .
+
+Input Format:
+
+The first line contains an integer denoting n.
+Each of the n subsequent lines contains two space-separated integers describing the values of x and y.
+
+Output Format:
+
+Return a count of the total number of objects o such that o.x==o.y. Locked stub code in the editor prints the returned value to STDOUT.
+
+Sample Input 0:
+
+5
+1 1
+2 3
+3 3
+3 4
+4 5
+Sample Output 0:
+
+2
+
+Explanation 0:
+
+There are n=5  objects in the objects array:
+
+objects s0={x:1,y:1}
+objects s1={x:2,y:3}
+objects s2={x:3,y:3}
+objects s3={x:3,y:4}
+objects s4={x:4,y:5}
+
+Because we have two objects o that satisfy o.x==o.y , we return 2 as our answer.
+
+CODE:
+
+function getCount(objects) {
+    let count=0;
+    for(let i=0;i<objects.length;i++){
+        if(objects[i].x==objects[i].y){
+            count++;
+        }
+    }
+    return count;
+}
+
+
+function main() {
+    const n = +(readLine());
+    let objects = [];
+    
+    for (let i = 0; i < n; i++) {
+        const [a, b] = readLine().split(' ');
+        
+        objects.push({x: +(a), y: +(b)});
+    }
+    
+    console.log(getCount(objects));
+}
     
     
 
