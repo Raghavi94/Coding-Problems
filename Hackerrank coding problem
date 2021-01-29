@@ -635,6 +635,67 @@ function main() {
     
     console.log(getCount(objects));
 }
+
+----------------------------------------------------------------------------------------------------
+
+10 days of JS
+Day 3:Arrays
+
+Task:
+
+Complete the getSecondLargest function in the editor below. It has one parameter: an array,nums, of n numbers. The function must find and return the second largest number in nums.
+
+Input Format:
+
+Locked stub code in the editor reads the following input from stdin and passes it to the function:
+The first line contains an integer,n, denoting the size of the nums array.
+The second line contains n space-separated numbers describing the elements in nums.
+
+Output Format:
+
+Return the value of the second largest number in the nums array.
+
+Sample Input 0:
+
+5
+2 3 6 6 5
+
+Sample Output 0:
+
+5
+
+Explanation 0:
+
+Given the array nums=[2,3,6,6,5], we see that the largest value in the array is 6 and the second largest value is 5. Thus, we return 5 as our answer.
+
+CODE:
+
+function getSecondLargest(nums) {
+    let largest = nums[0];
+    let secondLargest = nums[0];
+    
+    for (let i = 1; i < nums.length; i++) {
+        if (nums[i] > largest) {
+            secondLargest = largest;
+            largest = nums[i];
+            continue;
+        }
+        
+        if ((nums[i] > secondLargest) && (nums[i] < largest)) {
+            secondLargest = nums[i];
+        }
+    }
+    
+    return secondLargest;
+}
+
+
+function main() {
+    const n = +(readLine());
+    const nums = readLine().split(' ').map(Number);
+    
+    console.log(getSecondLargest(nums));
+}
     
     
 
