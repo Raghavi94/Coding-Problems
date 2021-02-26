@@ -727,6 +727,20 @@ function main() {
     console.log((s1 === x) ? s1 : -1);
     console.log((s2 === y) ? s2 : -1);
 }
+------------------------------------------------------------------------------------------
+Function:Python:leap year
+
+def is_leap(year):
+    leap = False
+    
+    # Write your logic here
+    if(year%4==0 and year%400==0 or year%100==0):
+        return True
+    
+    return leap
+
+year = int(input())
+pri
     
     
 
