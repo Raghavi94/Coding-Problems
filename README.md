@@ -4,4 +4,6 @@
 
 - [Q2-Find the means](https://practice.geeksforgeeks.org/problems/find-number-with-given-means/1/?track=unit-1&batchId=125)
 
+- [Q3-Area and Volume of cone](https://practice.geeksforgeeks.org/problems/area-and-volume-of-cone/1/?track=unit-1&batchId=125#)
+
 
