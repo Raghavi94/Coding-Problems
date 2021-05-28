@@ -8,3 +8,5 @@
 
 - [Q4-Leap year](https://practice.geeksforgeeks.org/problems/leap-year0943/1) 
 
+- [Q5-Check perfect square](https://practice.geeksforgeeks.org/problems/check-perfect-square5253/1/?track=unit-2&batchId=125#)
+
