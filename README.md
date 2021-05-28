@@ -10,3 +10,5 @@
 
 - [Q5-Check perfect square](https://practice.geeksforgeeks.org/problems/check-perfect-square5253/1/?track=unit-2&batchId=125#)
 
+- [Celsius to Fahrenheit](https://practice.geeksforgeeks.org/problems/celsius-to-fahrenheit-conversion5212/1/?track=unit-2&batchId=125#)
+
