@@ -14,3 +14,4 @@
 
 - [Q7-Decimal to binary](https://practice.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1/?track=unit-2&batchId=125#)
 
+- [Q8-Simple interest and amount](https://practice.geeksforgeeks.org/problems/simple-interest-and-amount/1/?track=unit-2&batchId=125)
