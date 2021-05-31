@@ -24,3 +24,5 @@
 
 - [Q12-Compound Interest](https://practice.geeksforgeeks.org/problems/compound-interest-and-its-amount/1/?track=unit-2&batchId=125#)
 
+- [Q13-Armstrong Number](https://practice.geeksforgeeks.org/problems/armstrong-number/1/?track=unit-2&batchId=125#)
+
