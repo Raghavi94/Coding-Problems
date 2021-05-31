@@ -22,3 +22,5 @@
 
 - [Q11-For loop-Print the character in even place](https://practice.geeksforgeeks.org/problems/for-loop-c/1/?track=unit-2&batchId=125)
 
+- [Q12-Compound Interest](https://practice.geeksforgeeks.org/problems/compound-interest-and-its-amount/1/?track=unit-2&batchId=125#)
+
