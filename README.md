@@ -26,3 +26,5 @@
 
 - [Q13-Armstrong Number](https://practice.geeksforgeeks.org/problems/armstrong-number/1/?track=unit-2&batchId=125#)
 
+- [Q14-Reverse the number](https://practice.geeksforgeeks.org/problems/reverse-the-number/1/?track=unit-2&batchId=125#)
+
