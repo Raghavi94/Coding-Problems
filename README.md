@@ -20,3 +20,5 @@
 
 - [Q10-Converges to OneZero](https://practice.geeksforgeeks.org/problems/converges-to-onezero/1/?track=unit-2&batchId=125#)
 
+- [Q11-For loop-Print the character in even place](https://practice.geeksforgeeks.org/problems/for-loop-c/1/?track=unit-2&batchId=125)
+
