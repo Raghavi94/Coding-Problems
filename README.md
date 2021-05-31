@@ -18,3 +18,5 @@
 
 - [Q9-Perfomance in class](https://practice.geeksforgeeks.org/problems/performance-in-class/1/?track=unit-2&batchId=125#)
 
+- [Q10-Converges to OneZero](https://practice.geeksforgeeks.org/problems/converges-to-onezero/1/?track=unit-2&batchId=125#)
+
