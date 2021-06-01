@@ -28,3 +28,5 @@
 
 - [Q14-Reverse the number](https://practice.geeksforgeeks.org/problems/reverse-the-number/1/?track=unit-2&batchId=125#)
 
+- [Q15-Nth fibonacci term](https://practice.geeksforgeeks.org/problems/nsupthsup-fibonacci-term/1/?track=unit-3&batchId=125#)
+
