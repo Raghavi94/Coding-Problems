@@ -30,3 +30,5 @@
 
 - [Q15-Nth fibonacci term](https://practice.geeksforgeeks.org/problems/nsupthsup-fibonacci-term/1/?track=unit-3&batchId=125#)
 
+- [Q16-Swapping in C](https://practice.geeksforgeeks.org/problems/swapping-in-c/1/?track=unit-3&batchId=125)
+
