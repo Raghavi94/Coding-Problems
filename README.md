@@ -32,3 +32,5 @@
 
 - [Q16-Swapping in C](https://practice.geeksforgeeks.org/problems/swapping-in-c/1/?track=unit-3&batchId=125)
 
+- [Q17-Square and Square root](https://practice.geeksforgeeks.org/problems/square-and-square-root/1/?track=unit-3&batchId=125#)
+
