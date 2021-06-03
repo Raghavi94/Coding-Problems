@@ -34,3 +34,5 @@
 
 - [Q17-Square and Square root](https://practice.geeksforgeeks.org/problems/square-and-square-root/1/?track=unit-3&batchId=125#)
 
+- [Q18-Number of primes upto N](https://practice.geeksforgeeks.org/problems/number-of-primes-upto-n/1/?track=unit-3&batchId=125#)
+
