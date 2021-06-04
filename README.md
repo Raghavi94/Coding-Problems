@@ -42,3 +42,5 @@
 
 - [Q21-String input and iteration](https://practice.geeksforgeeks.org/problems/string-input-and-iteration/1/?track=unit-4&batchId=125#)
 
+- [Q22-Serach an element in an array](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1/?track=unit-4&batchId=125#)
+
