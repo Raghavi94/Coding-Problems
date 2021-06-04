@@ -40,3 +40,5 @@
 
 - [Q20-Print the string](https://practice.geeksforgeeks.org/problems/print-the-string-c/1/?track=unit-4&batchId=125)
 
+- [Q21-String input and iteration](https://practice.geeksforgeeks.org/problems/string-input-and-iteration/1/?track=unit-4&batchId=125#)
+
