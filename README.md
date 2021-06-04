@@ -38,3 +38,5 @@
 
 - [Q19-Sum of array elements](https://practice.geeksforgeeks.org/problems/sum-of-array-elements2502/1/?track=unit-4&batchId=125)
 
+- [Q20-Print the string](https://practice.geeksforgeeks.org/problems/print-the-string-c/1/?track=unit-4&batchId=125)
+
