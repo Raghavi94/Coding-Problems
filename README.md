@@ -36,3 +36,5 @@
 
 - [Q18-Number of primes upto N](https://practice.geeksforgeeks.org/problems/number-of-primes-upto-n/1/?track=unit-3&batchId=125#)
 
+- [Q19-Sum of array elements](https://practice.geeksforgeeks.org/problems/sum-of-array-elements2502/1/?track=unit-4&batchId=125)
+
