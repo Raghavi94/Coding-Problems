@@ -48,3 +48,5 @@
 
 - [Q24-Dynamic allocation of 2D array](https://practice.geeksforgeeks.org/problems/dynamic-allocation-of-2d-array/1/?track=unit-4&batchId=125#)
 
+- [Q25-Number of occurence](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1/?track=unit-4&batchId=125)
+
