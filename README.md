@@ -46,3 +46,5 @@
 
 - [Q23-Iterating through arrays](https://practice.geeksforgeeks.org/problems/iterating-through-arrays-c/1/?track=unit-4&batchId=125#)
 
+- [Q24-Dynamic allocation of 2D array](https://practice.geeksforgeeks.org/problems/dynamic-allocation-of-2d-array/1/?track=unit-4&batchId=125#)
+
