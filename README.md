@@ -44,3 +44,5 @@
 
 - [Q22-Serach an element in an array](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1/?track=unit-4&batchId=125#)
 
+- [Q23-Iterating through arrays](https://practice.geeksforgeeks.org/problems/iterating-through-arrays-c/1/?track=unit-4&batchId=125#)
+
