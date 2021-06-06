@@ -56,3 +56,5 @@
 
 - [Q28-Even Odd Sum](https://practice.geeksforgeeks.org/problems/even-odd-sum5450/1/?track=unit-4&batchId=125#)
 
+- [Q29-Jumble Datatype](https://practice.geeksforgeeks.org/contest/practice-test-1-introduction-to-programming/problems/)
+
