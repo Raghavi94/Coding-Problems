@@ -54,3 +54,5 @@
 
 - [Q27-Difference between sum of diagonals](https://practice.geeksforgeeks.org/problems/find-difference-between-sum-of-diagonals1554/1/?track=unit-4&batchId=125#)
 
+- [Q28-Even Odd Sum](https://practice.geeksforgeeks.org/problems/even-odd-sum5450/1/?track=unit-4&batchId=125#)
+
