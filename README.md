@@ -50,3 +50,5 @@
 
 - [Q25-Number of occurence](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1/?track=unit-4&batchId=125)
 
+- [Q26-Searching an element/linear search in C++](https://practice.geeksforgeeks.org/problems/searching-a-number0324/1#)
+
