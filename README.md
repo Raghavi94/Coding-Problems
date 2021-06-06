@@ -52,3 +52,5 @@
 
 - [Q26-Searching an element/linear search in C++](https://practice.geeksforgeeks.org/problems/searching-a-number0324/1#)
 
+- [Q27-Difference between sum of diagonals](https://practice.geeksforgeeks.org/problems/find-difference-between-sum-of-diagonals1554/1/?track=unit-4&batchId=125#)
+
