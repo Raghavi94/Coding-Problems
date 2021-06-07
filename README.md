@@ -58,3 +58,5 @@
 
 - [Q29-Jumble Datatype](https://practice.geeksforgeeks.org/contest/practice-test-1-introduction-to-programming/problems/)
 
+- [Q30-Days in a month](https://practice.geeksforgeeks.org/contest/practice-test-2-arithmetic-expressions-conditional-branching/problems/#)
+
