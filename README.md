@@ -60,3 +60,5 @@
 
 - [Q30-Days in a month](https://practice.geeksforgeeks.org/contest/practice-test-2-arithmetic-expressions-conditional-branching/problems/#)
 
+- [Q31-Algebra Expression](https://practice.geeksforgeeks.org/contest/practice-test-2-arithmetic-expressions-conditional-branching/problems/#)
+
