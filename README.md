@@ -64,3 +64,5 @@
 
 - [Q32-Bit Checker](https://practice.geeksforgeeks.org/contest/practice-test-2-arithmetic-expressions-conditional-branching/problems/#)
 
+- [Find F(x)](https://practice.geeksforgeeks.org/contest/practice-test-3-loops-and-functions/problems/)
+
