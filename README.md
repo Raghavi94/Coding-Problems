@@ -66,3 +66,5 @@
 
 - [Q33-Find F(x)](https://practice.geeksforgeeks.org/contest/practice-test-3-loops-and-functions/problems/)
 
+- [Q34-Geek and snow fighting](https://practice.geeksforgeeks.org/contest/sample-geeks-challenge/problems/#)
+
