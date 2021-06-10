@@ -68,3 +68,5 @@
 
 - [Q34-Geek and snow fighting](https://practice.geeksforgeeks.org/contest/sample-geeks-challenge/problems/#)
 
+- [Q35-Binary to Decimal](https://practice.geeksforgeeks.org/problems/binary-to-decimal0005/1/?track=unit-4&batchId=125#)
+
