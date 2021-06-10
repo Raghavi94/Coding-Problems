@@ -70,3 +70,5 @@
 
 - [Q35-Binary to Decimal](https://practice.geeksforgeeks.org/problems/binary-to-decimal0005/1/?track=unit-4&batchId=125#)
 
+- [Q36-Reverse an array](https://practice.geeksforgeeks.org/problems/reverse-an-array/0/?track=unit-4&batchId=125#)
+
