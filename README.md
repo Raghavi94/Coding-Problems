@@ -78,3 +78,5 @@
 
 - [Q39-Find the Nth term in the series](https://practice.geeksforgeeks.org/problems/find-n-th-term-in-the-series3926/1)
 
+- [Q40-Sum of numbers without using arithmetic operators](https://practice.geeksforgeeks.org/problems/sum-of-two-numbers-without-using-arithmetic-operators/1)
+
