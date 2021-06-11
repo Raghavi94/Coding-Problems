@@ -74,3 +74,5 @@
 
 - [Q37-Return sum array](https://practice.geeksforgeeks.org/problems/return-sum-array/1/?track=unit-4&batchId=125#)
 
+- [Q38-Count the zeros](https://practice.geeksforgeeks.org/problems/count-the-zeros2550/1)
+
