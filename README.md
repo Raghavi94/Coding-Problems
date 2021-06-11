@@ -80,3 +80,5 @@
 
 - [Q40-Sum of numbers without using arithmetic operators](https://practice.geeksforgeeks.org/problems/sum-of-two-numbers-without-using-arithmetic-operators/1)
 
+- [Q41-Print first letter of every word in the string](https://practice.geeksforgeeks.org/problems/print-first-letter-of-every-word-in-the-string3632/1#)
+
