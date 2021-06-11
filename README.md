@@ -76,3 +76,5 @@
 
 - [Q38-Count the zeros](https://practice.geeksforgeeks.org/problems/count-the-zeros2550/1)
 
+- [Q39-Find the Nth term in the series](https://practice.geeksforgeeks.org/problems/find-n-th-term-in-the-series3926/1)
+
