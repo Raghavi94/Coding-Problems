@@ -82,3 +82,5 @@
 
 - [Q41-Print first letter of every word in the string](https://practice.geeksforgeeks.org/problems/print-first-letter-of-every-word-in-the-string3632/1#)
 
+- [Q42-Segregate 0's and 1's](https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1#)
+
