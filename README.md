@@ -84,3 +84,5 @@
 
 - [Q42-Segregate 0's and 1's](https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1#)
 
+- [Q43-Product of maximum in first array and minimum in second array](https://practice.geeksforgeeks.org/problems/product-of-maximum-in-first-array-and-minimum-in-second3943/1)
+
