@@ -86,3 +86,5 @@
 
 - [Q43-Product of maximum in first array and minimum in second array](https://practice.geeksforgeeks.org/problems/product-of-maximum-in-first-array-and-minimum-in-second3943/1)
 
+- [Q44-Replace all 0's with 5](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1#)
+
