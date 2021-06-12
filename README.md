@@ -88,3 +88,5 @@
 
 - [Q44-Replace all 0's with 5](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1#)
 
+- [Q45-Check if two arrays are equal or not](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1#)
+
