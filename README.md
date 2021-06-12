@@ -92,3 +92,5 @@
 
 - [Q46-Greater string](https://practice.geeksforgeeks.org/problems/greater-string/1/?track=unit-4&batchId=125)
 
+- [Q47-Average_min_max](https://practice.geeksforgeeks.org/problems/average-min-max/1#)
+
