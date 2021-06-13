@@ -98,3 +98,5 @@
 
 - [Q49-Anagram](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1#)
 
+- [Q50-Multiply two strings](https://practice.geeksforgeeks.org/problems/multiply-two-strings/1)
+
