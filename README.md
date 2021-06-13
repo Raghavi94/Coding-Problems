@@ -96,3 +96,5 @@
 
 - [Q48-Game with nos](https://practice.geeksforgeeks.org/problems/game-with-nos3123/1#)
 
+- [Q49-Anagram](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1#)
+
