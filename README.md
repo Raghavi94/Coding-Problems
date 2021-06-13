@@ -94,3 +94,5 @@
 
 - [Q47-Average_min_max](https://practice.geeksforgeeks.org/problems/average-min-max/1#)
 
+- [Q48-Game with nos](https://practice.geeksforgeeks.org/problems/game-with-nos3123/1#)
+
