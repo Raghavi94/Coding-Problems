@@ -100,3 +100,5 @@
 
 - [Q50-Multiply two strings](https://practice.geeksforgeeks.org/problems/multiply-two-strings/1)
 
+- [Q51-Min_Max_Sum_Array](https://practice.geeksforgeeks.org/problems/min-max-sum-c/1/?track=unit-4&batchId=125#)
+
