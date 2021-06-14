@@ -102,3 +102,5 @@
 
 - [Q51-Min_Max_Sum_Array](https://practice.geeksforgeeks.org/problems/min-max-sum-c/1/?track=unit-4&batchId=125#)
 
+- [Q52-Find extra character](https://practice.geeksforgeeks.org/problems/find-extra-character/1/?track=unit-4&batchId=125#)
+
