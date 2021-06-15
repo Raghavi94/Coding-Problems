@@ -106,3 +106,5 @@
 
 - [Q53-Find the fine](https://practice.geeksforgeeks.org/problems/find-the-fine4353/1)
 
+- [Q54-Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1#)
+
