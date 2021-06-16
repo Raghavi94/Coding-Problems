@@ -114,3 +114,5 @@
 
 - [Q57-Find the median](https://practice.geeksforgeeks.org/problems/find-the-median0527/1/?track=unit-4&batchId=125)
 
+- [Q58-Change the string](https://practice.geeksforgeeks.org/problems/change-the-string3541/1/?track=unit-4&batchId=125#)
+
