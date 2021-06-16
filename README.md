@@ -116,3 +116,5 @@
 
 - [Q58-Change the string](https://practice.geeksforgeeks.org/problems/change-the-string3541/1/?track=unit-4&batchId=125#)
 
+- [Q59-Find Index](https://practice.geeksforgeeks.org/problems/find-index4752/1/?track=unit-4&batchId=125#)
+
