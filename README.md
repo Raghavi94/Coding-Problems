@@ -110,3 +110,5 @@
 
 - [Q55-Second largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1/?track=unit-4&batchId=125#)
 
+- [Q56-Count of smaller elements](https://practice.geeksforgeeks.org/problems/count-of-smaller-elements5947/1/?track=unit-4&batchId=125)
+
