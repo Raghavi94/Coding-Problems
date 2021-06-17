@@ -118,3 +118,5 @@
 
 - [Q59-Find Index](https://practice.geeksforgeeks.org/problems/find-index4752/1/?track=unit-4&batchId=125#)
 
+- [Q60-Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1#)
+
