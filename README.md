@@ -120,3 +120,5 @@
 
 - [Q60-Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1#)
 
+- [Q61-Last index of One](https://practice.geeksforgeeks.org/problems/last-index-of-15847/1#)
+
