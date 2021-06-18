@@ -124,3 +124,5 @@
 
 - [Q62-Print non-repeated elements](https://practice.geeksforgeeks.org/problems/print-distinct-elements-1587115620/1)
 
+- [Q63-Compute (a*b)%c](https://practice.geeksforgeeks.org/problems/compute-abc5320/1#)
+
