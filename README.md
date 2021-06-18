@@ -126,3 +126,5 @@
 
 - [Q63-Compute (a*b)%c](https://practice.geeksforgeeks.org/problems/compute-abc5320/1#)
 
+- [Q64-Primality Test](https://practice.geeksforgeeks.org/problems/primality-test/1)
+
