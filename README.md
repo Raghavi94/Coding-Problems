@@ -122,3 +122,5 @@
 
 - [Q61-Last index of One](https://practice.geeksforgeeks.org/problems/last-index-of-15847/1#)
 
+- [Q62-Print non-repeated elements](https://practice.geeksforgeeks.org/problems/print-distinct-elements-1587115620/1)
+
