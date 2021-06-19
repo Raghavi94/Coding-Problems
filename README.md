@@ -132,3 +132,5 @@
 
 - [Q66-Maximum product of 2 nos](https://practice.geeksforgeeks.org/problems/maximum-product-of-two-numbers2730/1#)
 
+- [Q67-Third largest element](https://practice.geeksforgeeks.org/problems/third-largest-element/1#)
+
