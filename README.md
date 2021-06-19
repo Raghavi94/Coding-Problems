@@ -128,3 +128,5 @@
 
 - [Q64-Primality Test](https://practice.geeksforgeeks.org/problems/primality-test/1)
 
+- [Q65-Doubling the value](https://practice.geeksforgeeks.org/problems/doubling-the-value4859/1)
+
