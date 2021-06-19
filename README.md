@@ -134,3 +134,5 @@
 
 - [Q67-Third largest element](https://practice.geeksforgeeks.org/problems/third-largest-element/1#)
 
+- [Q68-Find second largest element](https://practice.geeksforgeeks.org/problems/find-second-largest-element2406/1#)
+
