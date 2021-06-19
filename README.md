@@ -130,3 +130,5 @@
 
 - [Q65-Doubling the value](https://practice.geeksforgeeks.org/problems/doubling-the-value4859/1)
 
+- [Q66-Maximum product of 2 nos](https://practice.geeksforgeeks.org/problems/maximum-product-of-two-numbers2730/1#)
+
