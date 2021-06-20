@@ -138,3 +138,5 @@
 
 - [Q69-Perfect squares in range](https://practice.geeksforgeeks.org/problems/perfect-squares-in-a-range2253/1)
 
+- [Q70-Red or Green](https://practice.geeksforgeeks.org/problems/red-or-green5711/1#)
+
