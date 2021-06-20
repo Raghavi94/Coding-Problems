@@ -140,3 +140,5 @@
 
 - [Q70-Red or Green](https://practice.geeksforgeeks.org/problems/red-or-green5711/1#)
 
+- [Q71-Digits in factorial](https://practice.geeksforgeeks.org/problems/digits-in-factorial/1#)
+
