@@ -136,5 +136,5 @@
 
 - [Q68-Find second largest element](https://practice.geeksforgeeks.org/problems/find-second-largest-element2406/1#)
 
-- [Q69Perfect squares in range](https://practice.geeksforgeeks.org/problems/perfect-squares-in-a-range2253/1)
+- [Q69-Perfect squares in range](https://practice.geeksforgeeks.org/problems/perfect-squares-in-a-range2253/1)
 
