@@ -144,3 +144,5 @@
 
 - [Q72-Sum of distinct elements](https://practice.geeksforgeeks.org/problems/sum-of-distinct-elements4801/1)
 
+- [Q73-Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1)
+
