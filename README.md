@@ -142,3 +142,5 @@
 
 - [Q71-Digits in factorial](https://practice.geeksforgeeks.org/problems/digits-in-factorial/1#)
 
+- [Q72-Sum of distinct elements](https://practice.geeksforgeeks.org/problems/sum-of-distinct-elements4801/1)
+
