@@ -148,4 +148,5 @@
 
 - [Q74-Count odd even](https://practice.geeksforgeeks.org/problems/count-odd-even/1#)
 
+- [Q75-Maximum money](https://practice.geeksforgeeks.org/problems/maximum-money2855/1#)
 
