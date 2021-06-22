@@ -152,3 +152,5 @@
 
 - [Q76-Half N by M](https://practice.geeksforgeeks.org/problems/geek-and-coffee-shop5721/1#)
 
+- [Q77-Krishnamurthy number](https://practice.geeksforgeeks.org/problems/krishnamurthy-number1323/1#)
+
