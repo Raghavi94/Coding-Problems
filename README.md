@@ -148,3 +148,5 @@
 
 - [Q74-Count odd even](https://practice.geeksforgeeks.org/problems/count-odd-even/1#)
 
+- [Q75-Area and volume of cone](https://practice.geeksforgeeks.org/problems/area-and-volume-of-cone/1#)
+
