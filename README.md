@@ -150,3 +150,5 @@
 
 - [Q75-Maximum money](https://practice.geeksforgeeks.org/problems/maximum-money2855/1#)
 
+- [Q76-Half N by M](https://practice.geeksforgeeks.org/problems/geek-and-coffee-shop5721/1#)
+
