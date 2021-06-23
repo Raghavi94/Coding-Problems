@@ -154,3 +154,5 @@
 
 - [Q77-Krishnamurthy number](https://practice.geeksforgeeks.org/problems/krishnamurthy-number1323/1#)
 
+- [Q78-Keypad Typing](https://practice.geeksforgeeks.org/problems/keypad-typing0119/1)
+
