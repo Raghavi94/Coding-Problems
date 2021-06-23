@@ -160,3 +160,5 @@
 
 - [Q80-Strong numbers](https://practice.geeksforgeeks.org/problems/strong-numbers4336/1)
 
+- [Q81-Jay's Apples](https://practice.geeksforgeeks.org/problems/jays-apples2724/1)
+
