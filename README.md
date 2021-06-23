@@ -158,3 +158,5 @@
 
 - [Q79-Why is melody so chocolaty?](https://practice.geeksforgeeks.org/problems/why-is-melody-so-chocolaty0446/1#)
 
+- [Q80-Strong numbers](https://practice.geeksforgeeks.org/problems/strong-numbers4336/1)
+
