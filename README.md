@@ -162,3 +162,5 @@
 
 - [Q81-Jay's Apples](https://practice.geeksforgeeks.org/problems/jays-apples2724/1)
 
+- [Q82-Find the frequency](https://practice.geeksforgeeks.org/problems/find-the-frequency/1)
+
