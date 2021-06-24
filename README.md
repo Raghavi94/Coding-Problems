@@ -164,3 +164,5 @@
 
 - [Q82-Find the frequency](https://practice.geeksforgeeks.org/problems/find-the-frequency/1)
 
+- [Q83-Factor OR Multiple](https://practice.geeksforgeeks.org/problems/factor-or-multiple1128/1#)
+
