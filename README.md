@@ -166,3 +166,5 @@
 
 - [Q83-Factor OR Multiple](https://practice.geeksforgeeks.org/problems/factor-or-multiple1128/1#)
 
+- [Q84-Professor and Parties](https://practice.geeksforgeeks.org/problems/professor-and-parties2000/1#)
+
