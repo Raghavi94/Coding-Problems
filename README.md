@@ -168,3 +168,5 @@
 
 - [Q84-Professor and Parties](https://practice.geeksforgeeks.org/problems/professor-and-parties2000/1#)
 
+- [Q85-AND Gate](https://practice.geeksforgeeks.org/problems/the-and-gate1231/1)
+
