@@ -170,3 +170,5 @@
 
 - [Q85-AND Gate](https://practice.geeksforgeeks.org/problems/the-and-gate1231/1)
 
+- [Q86-Squares Difference](https://practice.geeksforgeeks.org/problems/squares-difference0939/1#)
+
