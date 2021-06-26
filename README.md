@@ -174,3 +174,5 @@
 
 - [Q87-K largest elements](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1#)
 
+- [Q88-XOR of a given range](https://practice.geeksforgeeks.org/problems/xor-of-a-given-range/1#)
+
