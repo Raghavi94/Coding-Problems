@@ -172,3 +172,5 @@
 
 - [Q86-Squares Difference](https://practice.geeksforgeeks.org/problems/squares-difference0939/1#)
 
+- [Q87-K largest elements](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1#)
+
