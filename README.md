@@ -178,3 +178,5 @@
 
 - [Q89-Remove duplicates](https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1#)
 
+- [Q90-Zero Converter](https://practice.geeksforgeeks.org/problems/zero-converter-python/1#)
+
