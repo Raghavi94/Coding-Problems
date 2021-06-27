@@ -176,3 +176,5 @@
 
 - [Q88-XOR of a given range](https://practice.geeksforgeeks.org/problems/xor-of-a-given-range/1#)
 
+- [Q89-Remove duplicates](https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1#)
+
