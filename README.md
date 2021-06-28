@@ -182,3 +182,5 @@
 
 - [Q91-Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5545-1587115620/1)
 
+- [Q92-Need some change](https://practice.geeksforgeeks.org/problems/need-some-change/1#)
+
