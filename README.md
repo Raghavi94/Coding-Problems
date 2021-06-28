@@ -184,3 +184,5 @@
 
 - [Q92-Need some change](https://practice.geeksforgeeks.org/problems/need-some-change/1#)
 
+- [Q93-Step by step condition](https://practice.geeksforgeeks.org/problems/step-by-step-condition/1#)
+
