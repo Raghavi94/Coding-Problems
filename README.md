@@ -186,3 +186,5 @@
 
 - [Q93-Step by step condition](https://practice.geeksforgeeks.org/problems/step-by-step-condition/1#)
 
+- [Q94-Reverse Coding](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1)
+
