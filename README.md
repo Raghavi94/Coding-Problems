@@ -190,3 +190,5 @@
 
 - [Q95-Occurence of 2 as digit](https://practice.geeksforgeeks.org/problems/occurences-of-2-as-a-digit/1#)
 
+- [Q96-Is Square](https://practice.geeksforgeeks.org/problems/is-square1846/1)
+
