@@ -194,3 +194,5 @@
 
 - [Q97-Rotate by 90 degree](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1#)
 
+- [Q98-AP Term](https://practice.geeksforgeeks.org/problems/ap-term/1)
+
