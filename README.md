@@ -192,3 +192,5 @@
 
 - [Q96-Is Square](https://practice.geeksforgeeks.org/problems/is-square1846/1)
 
+- [Q97-Rotate by 90 degree](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1#)
+
