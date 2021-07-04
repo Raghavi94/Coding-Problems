@@ -196,3 +196,5 @@
 
 - [Q98-AP Term](https://practice.geeksforgeeks.org/problems/ap-term/1)
 
+- [Q99-Find nth term series](https://practice.geeksforgeeks.org/problems/find-n-th-term-of-series-1-3-6-10-15-215506/1)
+
