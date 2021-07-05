@@ -204,3 +204,5 @@
 
 - [Q102-Geek-o-nacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0#)
 
+- [Q103-Non repeating element](https://practice.geeksforgeeks.org/problems/non-repeating-element3958/1#)
+
