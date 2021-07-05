@@ -202,3 +202,5 @@
 
 - [Q101-Lazy Caterer's problem](https://practice.geeksforgeeks.org/problems/the-lazy-caterers-problem2527/1)
 
+- [Q102-Geek-o-nacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0#)
+
