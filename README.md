@@ -200,3 +200,5 @@
 
 - [Q100-Sum of numbers represented as array](https://practice.geeksforgeeks.org/problems/sum-of-two-numbers-represented-as-arrays3110/1#)
 
+- [Q101-Lazy Caterer's problem](https://practice.geeksforgeeks.org/problems/the-lazy-caterers-problem2527/1)
+
