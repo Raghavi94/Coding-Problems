@@ -206,3 +206,5 @@
 
 - [Q103-Non repeating element](https://practice.geeksforgeeks.org/problems/non-repeating-element3958/1#)
 
+- [Q104-Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1#)
+
