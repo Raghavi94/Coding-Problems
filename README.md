@@ -208,3 +208,5 @@
 
 - [Q104-Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1#)
 
+- [Q105-Is binary number multiple of 3](https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1#)
+
