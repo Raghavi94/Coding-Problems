@@ -210,3 +210,5 @@
 
 - [Q105-Is binary number multiple of 3](https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1#)
 
+- [Q106-Check if the number is Fibonacci](https://practice.geeksforgeeks.org/problems/check-if-the-number-is-fibonacci4654/1#)
+
