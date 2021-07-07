@@ -212,3 +212,5 @@
 
 - [Q106-Check if the number is Fibonacci](https://practice.geeksforgeeks.org/problems/check-if-the-number-is-fibonacci4654/1#)
 
+- [Q107-Deficient number](https://practice.geeksforgeeks.org/problems/deficient-number1612/1#)
+
