@@ -214,3 +214,5 @@
 
 - [Q107-Deficient number](https://practice.geeksforgeeks.org/problems/deficient-number1612/1#)
 
+- [Q108-Single number](https://practice.geeksforgeeks.org/problems/single-number1014/1#)
+
