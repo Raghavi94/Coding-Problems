@@ -216,3 +216,5 @@
 
 - [Q108-Single number](https://practice.geeksforgeeks.org/problems/single-number1014/1#)
 
+- [Q109-Facing the sun](https://practice.geeksforgeeks.org/problems/facing-the-sun2126/1)
+
