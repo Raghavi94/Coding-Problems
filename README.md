@@ -218,3 +218,5 @@
 
 - [Q109-Facing the sun](https://practice.geeksforgeeks.org/problems/facing-the-sun2126/1)
 
+- [Q110-Implement Atoi](https://practice.geeksforgeeks.org/problems/implement-atoi/1#)
+
