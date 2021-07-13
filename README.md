@@ -220,3 +220,5 @@
 
 - [Q110-Implement Atoi](https://practice.geeksforgeeks.org/problems/implement-atoi/1#)
 
+- [Q111-Floyd's Triangle](https://practice.geeksforgeeks.org/problems/floyds-triangle1222/1/?category[]=Mathematical&category[]=Mathematical&page=2&query=category[]Mathematicalpage2category[]Mathematical)
+
