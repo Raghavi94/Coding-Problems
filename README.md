@@ -226,3 +226,5 @@
 
 - [Q113-Distance between 2 points](https://practice.geeksforgeeks.org/problems/distance-between-2-points3200/1/?category[]=Mathematical&category[]=Mathematical&company[]=Zoho&company[]=Zoho&page=1&query=category[]Mathematicalcompany[]Zohopage1company[]Zohocategory[]Mathematical#)
 
+- [Q114-Mind game](https://practice.geeksforgeeks.org/problems/mind-game3637/1/?category[]=Mathematical&category[]=Mathematical&page=1&query=category[]Mathematicalpage1category[]Mathematical)
+
