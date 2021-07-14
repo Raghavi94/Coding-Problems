@@ -224,3 +224,5 @@
 
 - [Q112-Anshuman's Favorite number](https://practice.geeksforgeeks.org/problems/anshumans-favourite-number2029/1/?category[]=Mathematical&category[]=Mathematical&page=1&query=category[]Mathematicalpage1category[]Mathematical)
 
+- [Q113-Distance between 2 points](https://practice.geeksforgeeks.org/problems/distance-between-2-points3200/1/?category[]=Mathematical&category[]=Mathematical&company[]=Zoho&company[]=Zoho&page=1&query=category[]Mathematicalcompany[]Zohopage1company[]Zohocategory[]Mathematical#)
+
