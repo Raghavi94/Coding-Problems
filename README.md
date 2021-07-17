@@ -232,3 +232,5 @@
 
 - [Q116-Swap kth elements](https://practice.geeksforgeeks.org/problems/swap-kth-elements5500/1/?category[]=Arrays&category[]=Arrays&page=2&query=category[]Arrayspage2category[]Arrays#)
 
+- [Q117-K largest elements](https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1/?category[]=Arrays&category[]=Arrays&page=2&query=category[]Arrayspage2category[]Arrays#)
+
