@@ -234,3 +234,5 @@
 
 - [Q117-K largest elements](https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1/?category[]=Arrays&category[]=Arrays&page=2&query=category[]Arrayspage2category[]Arrays#)
 
+- [Q118-Series AP](https://practice.geeksforgeeks.org/problems/series-ap5310/1/?category[]=Mathematical&category[]=Mathematical&page=1&query=category[]Mathematicalpage1category[]Mathematical)
+
