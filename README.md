@@ -236,3 +236,5 @@
 
 - [Q118-Series AP](https://practice.geeksforgeeks.org/problems/series-ap5310/1/?category[]=Mathematical&category[]=Mathematical&page=1&query=category[]Mathematicalpage1category[]Mathematical)
 
+- [Q119-Sum of primes](https://practice.geeksforgeeks.org/problems/sum-of-primes0042/1/?category[]=Prime%20Number&category[]=Prime%20Number&page=1&query=category[]Prime%20Numberpage1category[]Prime%20Number#)
+
