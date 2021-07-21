@@ -242,3 +242,5 @@
 
 - [Q121-Check if string is isogram or not](https://practice.geeksforgeeks.org/problems/check-if-a-string-is-isogram-or-not-1587115620/1/?category[]=Strings&category[]=Strings&page=2&query=category[]Stringspage2category[]Strings#)
 
+- [Q122-Implement strstr](https://practice.geeksforgeeks.org/problems/implement-strstr/1/?category[]=Strings&category[]=Strings&page=2&query=category[]Stringspage2category[]Strings#)
+
