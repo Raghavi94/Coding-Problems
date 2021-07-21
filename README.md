@@ -240,3 +240,5 @@
 
 - [Q120-Remove spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1/?category[]=Strings&category[]=Strings&page=1&query=category[]Stringspage1category[]Strings)
 
+- [Q121-Check if string is isogram or not](https://practice.geeksforgeeks.org/problems/check-if-a-string-is-isogram-or-not-1587115620/1/?category[]=Strings&category[]=Strings&page=2&query=category[]Stringspage2category[]Strings#)
+
