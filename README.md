@@ -238,3 +238,5 @@
 
 - [Q119-Sum of primes](https://practice.geeksforgeeks.org/problems/sum-of-primes0042/1/?category[]=Prime%20Number&category[]=Prime%20Number&page=1&query=category[]Prime%20Numberpage1category[]Prime%20Number#)
 
+- [Q120-Remove spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1/?category[]=Strings&category[]=Strings&page=1&query=category[]Stringspage1category[]Strings)
+
