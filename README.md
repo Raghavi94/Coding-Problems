@@ -246,3 +246,5 @@
 
 - [Q123-Common Subsequence OldP](https://practice.geeksforgeeks.org/problems/common-subsequence-oldp3752/1/?category[]=Strings&category[]=Strings&page=2&query=category[]Stringspage2category[]Strings#)
 
+- [Q124-Largest number with given sum](https://practice.geeksforgeeks.org/problems/largest-number-with-given-sum-1587115620/1/?category[]=Strings&category[]=Strings&page=2&query=category[]Stringspage2category[]Strings)
+
