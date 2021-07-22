@@ -244,3 +244,5 @@
 
 - [Q122-Implement strstr](https://practice.geeksforgeeks.org/problems/implement-strstr/1/?category[]=Strings&category[]=Strings&page=2&query=category[]Stringspage2category[]Strings#)
 
+- [Q123-Common Subsequence OldP](https://practice.geeksforgeeks.org/problems/common-subsequence-oldp3752/1/?category[]=Strings&category[]=Strings&page=2&query=category[]Stringspage2category[]Strings#)
+
