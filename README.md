@@ -248,3 +248,5 @@
 
 - [Q124-Largest number with given sum](https://practice.geeksforgeeks.org/problems/largest-number-with-given-sum-1587115620/1/?category[]=Strings&category[]=Strings&page=2&query=category[]Stringspage2category[]Strings)
 
+- [Q125Maximum in struct array](https://practice.geeksforgeeks.org/problems/maximum-in-struct-array/1/?category[]=Arrays&category[]=Arrays&page=2&query=category[]Arrayspage2category[]Arrays)
+
