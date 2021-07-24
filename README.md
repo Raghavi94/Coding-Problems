@@ -250,3 +250,5 @@
 
 - [Q125-Maximum in struct array](https://practice.geeksforgeeks.org/problems/maximum-in-struct-array/1/?category[]=Arrays&category[]=Arrays&page=2&query=category[]Arrayspage2category[]Arrays)
 
+- [Q126-Struct Area](https://practice.geeksforgeeks.org/problems/struct-area/1/?track=unit-5&batchId=125#)
+
