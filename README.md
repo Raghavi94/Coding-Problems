@@ -252,3 +252,5 @@
 
 - [Q126-Struct Area](https://practice.geeksforgeeks.org/problems/struct-area/1/?track=unit-5&batchId=125#)
 
+- [Q127-Colinear or Non-colinear](https://practice.geeksforgeeks.org/problems/colinear-or-non-colinear/1/?track=unit-5&batchId=125)
+
