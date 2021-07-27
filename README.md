@@ -254,3 +254,5 @@
 
 - [Q127-Colinear or Non-colinear](https://practice.geeksforgeeks.org/problems/colinear-or-non-colinear/1/?track=unit-5&batchId=125)
 
+- [Q128-nPr](https://practice.geeksforgeeks.org/problems/npr4253/1/?category[]=Mathematical&category[]=Mathematical&page=4&query=category[]Mathematicalpage4category[]Mathematical#)
+
