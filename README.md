@@ -256,3 +256,5 @@
 
 - [Q128-nPr](https://practice.geeksforgeeks.org/problems/npr4253/1/?category[]=Mathematical&category[]=Mathematical&page=4&query=category[]Mathematicalpage4category[]Mathematical#)
 
+- [Q129-Implement stack using array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1/?category[]=Stack&category[]=Stack&page=1&query=category[]Stackpage1category[]Stack#)
+
