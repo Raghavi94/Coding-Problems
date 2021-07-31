@@ -258,3 +258,5 @@
 
 - [Q129-Implement stack using array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1/?category[]=Stack&category[]=Stack&page=1&query=category[]Stackpage1category[]Stack#)
 
+- [Q130-Sum of elements of matrix](https://practice.geeksforgeeks.org/problems/sum-of-elements-in-a-matrix2000/1/?company[]=Zoho&company[]=Zoho&page=1&query=company[]Zohopage1company[]Zoho#)
+
