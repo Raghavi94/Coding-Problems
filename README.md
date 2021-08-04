@@ -260,3 +260,5 @@
 
 - [Q130-Sum of elements of matrix](https://practice.geeksforgeeks.org/problems/sum-of-elements-in-a-matrix2000/1/?company[]=Zoho&company[]=Zoho&page=1&query=company[]Zohopage1company[]Zoho#)
 
+- [Q131-Strong numbers](https://practice.geeksforgeeks.org/problems/strong-numbers3315/1/?problemStatus=unsolved&page=6&query=problemStatusunsolvedpage6#)
+
