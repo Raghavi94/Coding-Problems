@@ -266,3 +266,5 @@
 
 - [Q133-Linked List length Even or Odd?](https://practice.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1/?category[]=Linked%20List&category[]=Linked%20List&difficulty[]=-1&page=1&query=category[]Linked%20Listdifficulty[]-1page1category[]Linked%20List#)
 
+- [Q134-Print Linked list elements](https://practice.geeksforgeeks.org/problems/print-linked-list-elements/1/?category[]=Linked%20List&category[]=Linked%20List&difficulty[]=-1&page=1&query=category[]Linked%20Listdifficulty[]-1page1category[]Linked%20List)
+
