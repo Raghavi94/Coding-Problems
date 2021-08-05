@@ -262,3 +262,5 @@
 
 - [Q131-Strong numbers](https://practice.geeksforgeeks.org/problems/strong-numbers3315/1/?problemStatus=unsolved&page=6&query=problemStatusunsolvedpage6#)
 
+- [Q132-Count nodes of linked list](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1/?category[]=Linked%20List&category[]=Linked%20List&difficulty[]=-1&page=1&query=category[]Linked%20Listdifficulty[]-1page1category[]Linked%20List)
+
