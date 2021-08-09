@@ -270,3 +270,5 @@
 
 - [Q135-Sum of last N nodes of linked list](https://practice.geeksforgeeks.org/problems/find-the-sum-of-last-n-nodes-of-the-linked-list/1/?category[]=Linked%20List&category[]=Linked%20List&difficulty[]=-1&page=1&query=category[]Linked%20Listdifficulty[]-1page1category[]Linked%20List)
 
+- [Q136-Binary Search](https://practice.geeksforgeeks.org/problems/who-will-win-1587115621/1#)
+
