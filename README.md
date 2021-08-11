@@ -276,3 +276,5 @@
 
 - [Q138-Balanced array](https://practice.geeksforgeeks.org/problems/balanced-array07200720/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&page=1&query=category[]ArraysproblemStatusunsolvedpage1category[]Arrays)
 
+- [Q139-Selection sort](https://practice.geeksforgeeks.org/problems/selection-sort/1)
+
