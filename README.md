@@ -278,3 +278,5 @@
 
 - [Q139-Selection sort](https://practice.geeksforgeeks.org/problems/selection-sort/1)
 
+- [Q140-Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1)
+
