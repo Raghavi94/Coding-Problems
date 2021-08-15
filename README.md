@@ -282,3 +282,5 @@
 
 - [Q141-Sum of border elements](https://practice.geeksforgeeks.org/problems/sum-of-border-elements/1/?track=unit-4&batchId=125#)
 
+- [Q142-Squares in N*N chessboard](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1#)
+
