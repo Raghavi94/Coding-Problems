@@ -284,3 +284,5 @@
 
 - [Q142-Squares in N*N chessboard](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1#)
 
+- [Q143-Structs and objects](https://practice.geeksforgeeks.org/problems/structs-and-objects/1/?track=module-3-pointers-and-objects%20&batchId=113)
+
