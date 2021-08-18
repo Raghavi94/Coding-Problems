@@ -286,3 +286,5 @@
 
 - [Q143-Structs and objects](https://practice.geeksforgeeks.org/problems/structs-and-objects/1/?track=module-3-pointers-and-objects%20&batchId=113)
 
+- [Q144-Amicable Pair](https://practice.geeksforgeeks.org/problems/amicable-pair0804/1#)
+
