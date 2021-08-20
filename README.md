@@ -288,3 +288,5 @@
 
 - [Q144-Amicable Pair](https://practice.geeksforgeeks.org/problems/amicable-pair0804/1#)
 
+- [Q145-Cyclic rotate an array by 1](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&page=1&query=category[]ArraysproblemStatusunsolvedpage1category[]Arrays#)
+
