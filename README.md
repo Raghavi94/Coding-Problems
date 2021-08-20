@@ -290,3 +290,5 @@
 
 - [Q145-Cyclic rotate an array by 1](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&page=1&query=category[]ArraysproblemStatusunsolvedpage1category[]Arrays#)
 
+- [Q146-Permutations in array](https://practice.geeksforgeeks.org/problems/permutations-in-array1747/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&page=3&query=category[]ArraysproblemStatusunsolvedpage3category[]Arrays#)
+
