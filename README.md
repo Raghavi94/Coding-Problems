@@ -292,3 +292,5 @@
 
 - [Q146-Permutations in array](https://practice.geeksforgeeks.org/problems/permutations-in-array1747/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&page=3&query=category[]ArraysproblemStatusunsolvedpage3category[]Arrays#)
 
+- [Q147-Generic sort](https://practice.geeksforgeeks.org/problems/c-generic-sort/1/?problemStatus=unsolved&page=2&query=problemStatusunsolvedpage2)
+
