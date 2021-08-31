@@ -294,3 +294,5 @@
 
 - [Q147-Generic sort](https://practice.geeksforgeeks.org/problems/c-generic-sort/1/?problemStatus=unsolved&page=2&query=problemStatusunsolvedpage2)
 
+- [Q148-Remove duplicates from sorted array](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&difficulty[]=-1&difficulty[]=0&page=1&company[]=Wipro&query=category[]ArraysproblemStatusunsolveddifficulty[]-1difficulty[]0page1company[]Wiprocategory[]Arrays#)
+
