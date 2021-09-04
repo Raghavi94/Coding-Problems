@@ -296,3 +296,5 @@
 
 - [Q148-Remove duplicates from sorted array](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&difficulty[]=-1&difficulty[]=0&page=1&company[]=Wipro&query=category[]ArraysproblemStatusunsolveddifficulty[]-1difficulty[]0page1company[]Wiprocategory[]Arrays#)
 
+- [Q149-Sum of digits divisibility](https://practice.geeksforgeeks.org/problems/sum-of-digits-divisibility5311/1/?problemStatus=unsolved&page=9&query=problemStatusunsolvedpage9#)
+
