@@ -298,3 +298,5 @@
 
 - [Q149-Sum of digits divisibility](https://practice.geeksforgeeks.org/problems/sum-of-digits-divisibility5311/1/?problemStatus=unsolved&page=9&query=problemStatusunsolvedpage9#)
 
+- [Q150-Special Array Reversal](https://practice.geeksforgeeks.org/problems/special-array-reversal2328/1/?category[]=Strings&category[]=Strings&problemStatus=unsolved&page=4&query=category[]StringsproblemStatusunsolvedpage4category[]Strings#)
+
