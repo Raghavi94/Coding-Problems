@@ -300,3 +300,5 @@
 
 - [Q150-Special Array Reversal](https://practice.geeksforgeeks.org/problems/special-array-reversal2328/1/?category[]=Strings&category[]=Strings&problemStatus=unsolved&page=4&query=category[]StringsproblemStatusunsolvedpage4category[]Strings#)
 
+- [Q151-Factorial of large numbers](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1#)
+
